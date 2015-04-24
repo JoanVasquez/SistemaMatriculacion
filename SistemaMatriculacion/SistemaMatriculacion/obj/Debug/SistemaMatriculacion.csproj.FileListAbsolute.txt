@@ -1,0 +1,15 @@
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\bin\Debug\SistemaMatriculacion.exe.config
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\bin\Debug\SistemaMatriculacion.exe
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\bin\Debug\SistemaMatriculacion.pdb
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaCarrera.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaDireccion.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaMatriculacion.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\SistemaMatriculacion.csproj.GenerateResource.Cache
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\SistemaMatriculacion.exe
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\SistemaMatriculacion.pdb
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\SistemaMatriculacion.csprojResolveAssemblyReference.cache
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaRegistrarse.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaLogin.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaLoginRegistracion.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.Properties.Resources.resources
+C:\Users\GodSong\Documents\Visual Studio 2012\Projects\SistemaMatriculacion\SistemaMatriculacion\obj\Debug\com.SistemaMatriculacion.Vistas.VistaReporte.resources
